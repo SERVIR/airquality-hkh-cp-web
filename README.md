@@ -42,7 +42,7 @@ npm run preview
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
 ## Credits
-Development of the Admin Interface was funded through the NASA SERVIR-Nepal Air Quality Explorer UI/UX Challenge, administered through the NASA Open Innovation Services 2 contract, by the NASA Tournament Lab. Through the Tournament Lab, NASA engages the global solver community to transform problems into solution for NASA and the Federal Government.
+Development of the Web Application frontend was funded through the NASA SERVIR-Nepal Air Quality Explorer UI/UX Challenge, administered through the NASA Open Innovation Services 2 contract, by the NASA Tournament Lab. Through the Tournament Lab, NASA engages the global solver community to transform problems into solution for NASA and the Federal Government.
 
 CrowdPlat was awarded this challenge and executed the contract between September 2022 and May 2023.
 
